@@ -23,11 +23,13 @@ It automatically builds and launches a self-destructing Ubuntu container pre-ins
 
 ## 🛠️ Purpose
 
+## 🛠️ Purpose
+
 The goal of these images and tools is to provide:
 
-- **Isolated environments** for safe exploit development  
-- **Pre-configured toolchains** to save setup time  
-- **Disposable containers** that leave no traces after use  
+- **Isolated environments** for safe experimentation and learning  
+- **Pre-configured toolchains** to save setup and configuration time  
+- **Disposable containers** that leave no traces after use 
 
 ---
 
