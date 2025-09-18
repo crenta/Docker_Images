@@ -34,9 +34,11 @@ The goal of these images and tools is to provide:
 ## 🛡️ Disclaimer
 
 All tools and images provided here are intended **for educational and research purposes only**.  
-Do not use them for malicious activities. Use responsibly and at your own risk.
+Do not use them for malicious activities. Use responsibly and at your own risk.  
 
 ---
+
+## 📜 License
 
 All projects in this directory are licensed under the **Apache 2.0 License**.  
 See the [LICENSE](./LICENSE) file in this folder for details.
