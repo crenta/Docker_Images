@@ -23,8 +23,6 @@ It automatically builds and launches a self-destructing Ubuntu container pre-ins
 
 ## 🛠️ Purpose
 
-## 🛠️ Purpose
-
 The goal of these images and tools is to provide:
 
 - **Isolated environments** for safe experimentation and learning  
