@@ -1,6 +1,6 @@
 # 🐳 Docker Images
 
-Custom Docker image builders and related tools for cybersecurity labs and exploit development.  
+Custom Docker image builders and related tools for cybersecurity labs and education.  
 This directory contains scripts and guides for creating disposable, pre-configured environments.
 
 ---
